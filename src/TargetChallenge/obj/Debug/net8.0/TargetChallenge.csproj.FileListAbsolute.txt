@@ -1,0 +1,16 @@
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\obj\Debug\net8.0\TargetChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\obj\Debug\net8.0\TargetChallenge.AssemblyInfoInputs.cache
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\obj\Debug\net8.0\TargetChallenge.AssemblyInfo.cs
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\obj\Debug\net8.0\TargetChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\bin\Debug\net8.0\dados\vendas.json
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\bin\Debug\net8.0\TargetChallenge.exe
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\bin\Debug\net8.0\TargetChallenge.deps.json
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\bin\Debug\net8.0\TargetChallenge.runtimeconfig.json
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\bin\Debug\net8.0\TargetChallenge.dll
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\bin\Debug\net8.0\TargetChallenge.pdb
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\obj\Debug\net8.0\TargetChallenge.dll
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\obj\Debug\net8.0\refint\TargetChallenge.dll
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\obj\Debug\net8.0\TargetChallenge.pdb
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\obj\Debug\net8.0\TargetChallenge.genruntimeconfig.cache
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\obj\Debug\net8.0\ref\TargetChallenge.dll
+C:\Users\Alisson\OneDrive\Documentos\target-desafio-tecnico\src\TargetChallenge\bin\Debug\net8.0\dados\estoque.json

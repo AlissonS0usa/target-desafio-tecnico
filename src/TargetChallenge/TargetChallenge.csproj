@@ -1,0 +1,26 @@
+<!-- como o arquivo vendas.json e estoque.json estão em src/dados, 
+vou configurar o projeto para 
+copiar esses JSONs para a pasta de execução e depois
+ ler os arquivos no Program.cs.-->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../dados/vendas.json">
+      <Link>dados/vendas.json</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+
+    <None Include="../dados/estoque.json">
+      <Link>dados/estoque.json</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
