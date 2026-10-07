@@ -1,0 +1,54 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage
+coverage/
+coverage.cobertura.xml
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Publish output
+publish/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+appsettings.Development.json
+secrets.json
